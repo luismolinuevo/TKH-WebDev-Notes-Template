@@ -29,9 +29,9 @@ ___
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, [Sept]/[13] 
 
-#### 🗒️Notes from class:
+#### 🗒️Notes from class: nvm is to switch between versions of node
 
 #### 📚Resources:
 
@@ -39,9 +39,9 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. download node
+2. download nvm
+3. download git
 
 👁️Two things I would like to know more about:
 1. 
