@@ -1,18 +1,18 @@
 # Week 1
-## [month]/[day] - [month]/[day]
+## [Sept]/[12] - [Sept]/[14]
 
-# Topic:
+# Topic:Installs, Intro
 
 ___
 
-### Day 1, [month]/[day]
+### Day 1, [Sept]/[12]
 
-#### 🗒️Notes from class:
+#### 🗒️Notes from class: Stipend
 
-#### 📚Resources:
+#### 📚Resources:  
 
 
-#### 💭Daily Reflection:
+#### 💭Daily Reflection: Learn about the program.
 
 💡3 Things I learned today:
 1. 
