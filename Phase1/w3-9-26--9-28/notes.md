@@ -1,11 +1,11 @@
-# Week [week#]
-## [month]/[day] - [month]/[day]
+# Week [week#3]
+## [09]/[26] - [09]/[28]
 
-# Topic:
+# Topic: figma, flexbox
 
 ___
 
-### Day 1, [month]/[day]
+### Day 1, [09]/[26]
 
 #### 🗒️Notes from class:
 
@@ -15,16 +15,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. wireframes
+2. figma color change
+3. figma ruler
 
 👁️Two things I would like to know more about:
-1. 
+1. how to desgin
 2. 
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. none for now
 
 
 ___
