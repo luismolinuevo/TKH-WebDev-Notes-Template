@@ -29,9 +29,9 @@ ___
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, [09]/[27] 
 
-#### 🗒️Notes from class:
+#### 🗒️Notes from class: Learned flex
 
 #### 📚Resources:
 
@@ -39,16 +39,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
+1. flex: 1 etc
+2. flexbox
 3. 
 
 👁️Two things I would like to know more about:
-1. 
+1. grid
 2. 
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. None for now
 
 ___
 
