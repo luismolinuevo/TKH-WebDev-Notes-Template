@@ -52,8 +52,9 @@ ___
 
 ___
 
-### Day 3, [month]/[day]
-#### 🗒️Notes from class:
+### Day 3, [09]/[28]
+#### 🗒️Notes from class: 
+Reviewed flex
 
 #### 📚Resources:
 
@@ -61,15 +62,15 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
+1. reviewed flex
+2. made side bar in css and html
 3. 
 
 👁️Two things I would like to know more about:
-1. 
+1. nothing for now
 2. 
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. nothing for now
  
 
