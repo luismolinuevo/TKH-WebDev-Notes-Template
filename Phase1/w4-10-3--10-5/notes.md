@@ -29,7 +29,7 @@ ___
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, [10]/[04] 
 
 #### 🗒️Notes from class:
 
@@ -39,16 +39,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
+1. if else
+2. loops
 3. 
 
 👁️Two things I would like to know more about:
-1. 
+1. do while
 2. 
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. No
 
 ___
 
