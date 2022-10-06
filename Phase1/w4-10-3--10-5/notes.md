@@ -36,23 +36,11 @@ ___
 #### 📚Resources:
 
 
-#### 💭Daily Reflection:
 
-💡3 Things I learned today:
-1. if else
-2. loops
-3. 
-
-👁️Two things I would like to know more about:
-1. do while
-2. 
-
-✋One thing I'm having trouble understanding:
-1. No
 
 ___
 
-### Day 3, [month]/[day]
+### Day 3, [10]/[05]
 #### 🗒️Notes from class:
 
 #### 📚Resources:
@@ -61,15 +49,15 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
+1. functions
+2. nested functions
 3. 
 
 👁️Two things I would like to know more about:
-1. 
+1. none for now
 2. 
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. none for now
  
 
