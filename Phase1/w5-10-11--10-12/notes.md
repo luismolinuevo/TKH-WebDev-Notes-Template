@@ -1,11 +1,11 @@
-# Week [week#]
-## [month]/[day] - [month]/[day]
+# Week [week#5]
+## [10]/[11] - [10]/[13]
 
 # Topic:
 
 ___
 
-### Day 1, [month]/[day]
+### Day 1, [10]/[11]
 
 #### 🗒️Notes from class:
 
@@ -15,16 +15,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
+1. functions
+2. eval
 3. 
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. dom
+2. oop
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. nothing
 
 
 ___
