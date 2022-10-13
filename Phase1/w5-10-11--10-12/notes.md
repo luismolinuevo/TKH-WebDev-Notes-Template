@@ -29,7 +29,7 @@ ___
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, [10]/[12] 
 
 #### 🗒️Notes from class:
 
@@ -39,16 +39,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. dom
+2. getelementbyid
+3. puting text in elements
 
 👁️Two things I would like to know more about:
-1. 
+1. nothing for now
 2. 
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. nothing for now
 
 ___
 
