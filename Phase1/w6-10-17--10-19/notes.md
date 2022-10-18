@@ -1,11 +1,11 @@
-# Week [week#]
-## [month]/[day] - [month]/[day]
+# Week [week#6]
+## [10]/[17] - [10]/[day]
 
 # Topic:
 
 ___
 
-### Day 1, [month]/[day]
+### Day 1, [10]/[17]
 
 #### 🗒️Notes from class:
 
@@ -15,16 +15,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. objects
+2. nested objects
+3. bracket notation
 
 👁️Two things I would like to know more about:
-1. 
+1. objects
 2. 
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. none
 
 
 ___
