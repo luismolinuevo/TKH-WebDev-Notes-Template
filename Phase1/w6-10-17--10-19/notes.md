@@ -29,7 +29,7 @@ ___
 
 ___
 
-### Day 2, [month]/[day] 
+### Day 2, [10]/[18] 
 
 #### 🗒️Notes from class:
 
@@ -39,16 +39,16 @@ ___
 #### 💭Daily Reflection:
 
 💡3 Things I learned today:
-1. 
-2. 
-3. 
+1. objects 
+2. this in classes
+3. oop
 
 👁️Two things I would like to know more about:
-1. 
-2. 
+1. oop
+2. basic card game. I could never make one 
 
 ✋One thing I'm having trouble understanding:
-1. 
+1. none for now
 
 ___
 
